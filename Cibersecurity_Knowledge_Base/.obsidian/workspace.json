@@ -1,0 +1,367 @@
+{
+  "main": {
+    "id": "2f68b41ba78c1b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c36c359dd4f319f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c4889887c770bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/MOC_IDS_IPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC_IDS_IPS"
+            }
+          },
+          {
+            "id": "78c3611e55edec5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/MOC_IDS_IPS.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MOC_IDS_IPS"
+            }
+          },
+          {
+            "id": "f876140cb99626ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/01_Fundamentos/HIDS y HIPS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HIDS y HIPS"
+            }
+          },
+          {
+            "id": "f998461646d56cdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/01_Fundamentos/HIDS y HIPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HIDS y HIPS"
+            }
+          },
+          {
+            "id": "a699339caae8217c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/01_Fundamentos/IDS vs IPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDS vs IPS"
+            }
+          },
+          {
+            "id": "6d76bb087b74e820",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/MOC_IDS_IPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC_IDS_IPS"
+            }
+          },
+          {
+            "id": "b3dd52727e52527c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/MOC_IDS_IPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC_IDS_IPS"
+            }
+          },
+          {
+            "id": "d5e4bbd0cf49771d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/MOC_IDS_IPS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOC_IDS_IPS"
+            }
+          },
+          {
+            "id": "a0da9739a1e1a707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Blue_Team/01_Fundamentos/Ofuscación de Tráfico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ofuscación de Tráfico"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf8bc28e5b5f0fcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d29d234b50140a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92699df1b7e305bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "a48eb93e83f70be3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "demonio",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3ff081adca976482",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "3dfc0a628913d5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8e29648398af93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feba25f145eb18d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03_Programación_y_Scripting/Bash/Bash_Básico.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bash_Básico"
+            }
+          },
+          {
+            "id": "0b3688568c03ad3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03_Programación_y_Scripting/Bash/Bash_Básico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bash_Básico"
+            }
+          },
+          {
+            "id": "a19725e05cf3af7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "738350a5ab8f6fa5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7773bbd0ca233c06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07_Blue_Team/01_Fundamentos/Ofuscación de Tráfico.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          },
+          {
+            "id": "0b69b09647db1f06",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8e1554eae0591d02",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03_Programación_y_Scripting/Bash/Bash_Básico.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propiedades de los archivos para Bash_Básico"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
+    }
+  },
+  "active": "92699df1b7e305bc",
+  "lastOpenFiles": [
+    "Cibersecurity_Knowledge_Base",
+    "Nueva carpeta",
+    "07_Blue_Team/01_Fundamentos/Ofuscación de Tráfico.md",
+    "07_Blue_Team/MOC_IDS_IPS.md",
+    "07_Blue_Team/01_Fundamentos/Evasión con Nmap.md",
+    "07_Blue_Team/01_Fundamentos/IDS vs IPS.md",
+    "08_Red_Team/MOC_Teoría_Avanzada_de_Ciberseguridad_Ofensiva.md",
+    "07_Blue_Team/01_Fundamentos/HIDS y HIPS.md",
+    "08_Red_Team",
+    "07_Blue_Team/01_Fundamentos/Suricata.md",
+    "07_Blue_Team/01_Fundamentos/Snort.md",
+    "07_Blue_Team/01_Fundamentos",
+    "07_Blue_Team",
+    "07_Blue_Team/01_Fundamentos/NIDS y NIPS.md",
+    "Herramientas_Template.md",
+    "01_FUNDAMENTOS/05_Metodologias/MOC_Conceptos_Seguridad.md",
+    "98_Curiosidades/Demonio.md",
+    "98_Curiosidades",
+    "01_FUNDAMENTOS/01_Redes/11_Introducción a Wireshark y Tshark.md",
+    "01_FUNDAMENTOS/05_Metodologias/MOC_Fundamentos_Sistemas.md",
+    "01_FUNDAMENTOS/01_Redes/08_DHCP (Dynamic Host Configuration Protocol).md",
+    "01_FUNDAMENTOS/05_Metodologias/MOC_Fundamentos_Redes.md",
+    "01_FUNDAMENTOS/05_Metodologias/MOC_Metodologias.md",
+    "01_FUNDAMENTOS/01_Redes/01_Modelo OSI vs TCP-IP.md",
+    "06_Herramientas_Hacking/NMAP.md",
+    "Maquina_Template.md",
+    "Excalidraw/Drawing 2026-06-05 20.17.22.excalidraw.md",
+    "01_FUNDAMENTOS/01_Redes/05_TCP vs UDP.md",
+    "01_FUNDAMENTOS/01_Redes/04_Protocolos de Enrutamiento y Gateway.md",
+    "01_FUNDAMENTOS/01_Redes/03_Direccionamiento IP y Subnetting.md",
+    "01_FUNDAMENTOS/01_Redes/02_Encapsulamiento de Datos.md",
+    "Conocimientos_Profundos_Bash",
+    "03_Programación_y_Scripting/Bash/Utilidades",
+    "01_FUNDAMENTOS/04_Conceptos_Clave",
+    "Sin nombre 1",
+    "Excalidraw"
+  ]
+}
