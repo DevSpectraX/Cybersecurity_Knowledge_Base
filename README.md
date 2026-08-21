@@ -30,5 +30,14 @@ Puedes descargarlo gratis aquí:
 3. (Opcional) Activa la vista de grafo para ver las conexiones entre las notas
 
 ---
+## ⚖️ Aviso legal / Disclaimer
+
+Todo el contenido de este repositorio tiene **fines exclusivamente educativos y de aprendizaje**.
+
+Cualquier información, técnica, herramienta o concepto que pueda encontrarse en un área legalmente sensible, gris o potencialmente ilegal se incluye **únicamente con el objetivo de comprender cómo funcionan los sistemas de seguridad y las amenazas**, nunca para fomentar, promover ni facilitar su uso indebido o ilegal.
+
+El autor no se responsabiliza del mal uso que se pueda hacer de la información aquí contenida. El aprendizaje de ciberseguridad debe realizarse siempre dentro de un marco ético y legal.
+
+---
 
 **Nota:** Estos apuntes están escritos con fines educativos y de estudio personal.
